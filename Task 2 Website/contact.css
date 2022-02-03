@@ -1,0 +1,16 @@
+
+.smaller-image {
+    width: 100px; height: 100px;
+}
+.decoration {
+    text-decoration: none;
+}
+
+.body {
+    background-color: black;
+} 
+
+.decoration-2 {
+    margin-top: 100px;
+padding-left: 150px;
+}

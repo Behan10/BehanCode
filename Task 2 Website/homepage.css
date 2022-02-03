@@ -1,0 +1,27 @@
+.lew {
+    width: 350px;
+    height: 500px;
+}
+.max {
+    width: 350px;
+    height: 500px;
+}
+.alo {
+    width: 350px;
+    height: 500px;
+}
+.table {
+    border-spacing: 35px;
+    padding-left: 40px;
+    margin-bottom: -50px;
+}
+.smaller-image {
+    width: 100px; height: 100px;
+}
+.decoration {
+    text-decoration: none;
+}
+
+.body {
+    background-color: black;
+} 
